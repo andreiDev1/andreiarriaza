@@ -13,9 +13,11 @@
   <a href="your-linkedin-URL" target="_blank" rel="noppener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="mailto:andreiarriaza@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
+  
+
  
   <a href="your-twitter-URL" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -28,9 +30,19 @@
 
 </div>
 
-<h1>
-  hey there
+<h2>
+  ¡Hola!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
-### :woman_technologist: About Me :
+<h3> :woman_technologist: Acerca de mí: </h3>
+ <ul>
+  <li>:computer: Yo soy un desarrollador Full Stack de Guatemala.</li>
+  <li>:running_shirt_with_sash: Apasionado por el Trail Running (carreras por montañas).</li>
+  <li> :national_park: Eterno enamorado de la montaña y la aventura. </li>
+  <li> :chess_pawn: Incipiente ajedrecista. </li>
+ </ul>
+
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"/>
+
