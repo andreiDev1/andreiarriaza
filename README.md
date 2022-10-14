@@ -37,10 +37,13 @@
 
 <h3> :woman_technologist: Acerca de mí: </h3>
  <ul>
+ <li>Eterno autodidacta.
   <li>:computer: Yo soy un desarrollador Full Stack de Guatemala.</li>
   <li>:running_shirt_with_sash: Apasionado por el Trail Running (carreras por montañas).</li>
-  <li> :national_park: Eterno enamorado de la montaña y la aventura. </li>
+  <li> :national_park: Enamorado de la montaña y la aventura. </li>
   <li> :chess_pawn: Incipiente ajedrecista. </li>
+  <li> Escritor aficionado.</li>
+  <li>Lector voraz.</li>
  </ul>
 
 
