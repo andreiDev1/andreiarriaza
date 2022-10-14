@@ -38,19 +38,20 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h2>
 
-<h3> :woman_technologist: Acerca de mí: </h3>
+<h3> :man_technologist: Acerca de mí: </h3>
  <ul>
-  <li>Eterno autodidacta.</li>
-  <li>:computer: Yo soy un desarrollador Full Stack de Guatemala.</li>
-  <li>:running_shirt_with_sash: Apasionado por el Trail Running (carreras por montañas).</li>
+  <li>:computer: Soy desarrollador Full Stack de Guatemala.</li>
+  <li>:man_student: Eterno autodidacta.</li>
+  <li>:running_shirt_with_sash: Apasionado por el Trail Running (carreras por montaña).</li>
+  <li>:open_book: Lector voraz.</li>
   <li> :national_park: Enamorado de la montaña y la aventura. </li>
-  <li>Amante de la guitarra. </li>
+  <li>:guitar: Amante de la guitarra. </li>
   <li> :chess_pawn: Incipiente ajedrecista. </li>
-  <li> Escritor aficionado.</li>
-  <li>Lector voraz.</li>
+  <li>:black_nib: Escritor aficionado.</li>
+  
  </ul>
 
-<h2> Tecnologías y herramientas </h2>
+<h2>:hammer_and_wrench: Tecnologías y herramientas </h2>
 
 <!-- Icons -->
 
