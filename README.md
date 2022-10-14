@@ -3,7 +3,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Redes%20Sociales.png" width="800" height="400"/>
+  <a href="https://andreiarriaza.github.io" target="_blank">
+    <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Redes%20Sociales.png" width="800" height="400"/>
+  </a>
 </div>
 
 <!-- Badges -->
