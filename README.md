@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="800" height="400"/>
+  <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Redes%20Sociales.png" width="800" height="400"/>
 </div>
 
 <!-- Badges -->
