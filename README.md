@@ -52,6 +52,8 @@
 
 <h2> Tecnologías y herramientas </h2>
 
+<!-- Icons -->
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
@@ -68,9 +70,22 @@
  
  
 <hr/>
+
+<!-- Streak Stats Github (estadísticas de rachas)= -->
+<!--
+ Forma original de obtener Streak Stats con Markdown del sitio web: http://github-readme-streak-stats.herokuapp.com/demo/ 
+
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreiarriaza&theme=dark)](https://git.io/streak-stats)
+-->
+
+<!-- Obtener Streak Stats con HTML del sitio web anterior: 
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=andreiarriaza&theme=dark"/>
+</a>
+ 
+
  
  
-https://github-readme-streak-stats.herokuapp.com/?user=andreiarriaza
 
 
 
