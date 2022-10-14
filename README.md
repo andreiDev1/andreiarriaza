@@ -1,13 +1,14 @@
 
 <h1 align="center">Andrei Arriaza</h1>
 
-
+<!-- Banner Presentation-->
+<!-- 
 <div align="center">
   <a href="https://andreiarriaza.github.io" target="_blank">
     <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Redes%20Sociales.png" width="800" height="400"/>
   </a>
 </div>
-
+-->
 <!-- Badges -->
 
 <div id="badges" align="center">
