@@ -4,7 +4,7 @@
 <!-- Banner Presentation-->
 <!-- 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andreiarriaza" target="_blank">
+  <a href="https://andreiarriaza.github.io/" target="_blank">
     <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Redes%20Sociales.png" width="800" height="400"/>
   </a>
 </div>
@@ -12,7 +12,7 @@
 <!-- Badges -->
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/andreiarriaza" target="_blank" rel="noppener">
+  <a href="https://www.linkedin.com/in/andreiarriaza" target="_blank" rel="noppener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
