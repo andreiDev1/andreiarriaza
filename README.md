@@ -12,16 +12,17 @@
 <!-- Badges -->
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL" target="_blank" rel="noppener">
+  <a href="www.linkedin.com/in/andreiarriaza" target="_blank" rel="noppener">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  
   <a href="mailto:andreiarriaza@gmail.com" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
   </a>
   
 
  
-  <a href="your-twitter-URL" target="_blank" rel="noopener">
+  <a href="https://www.twitter.com/andre_arriaza" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
