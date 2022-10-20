@@ -87,9 +87,12 @@
 
 
 <!-- Obtener Streak Stats con HTML del sitio web anterior: -->
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=andreiarriaza&theme=dark"/>
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=andreiarriaza&theme=dark"/>
+  </a>
+</div>
+
  
 
  
