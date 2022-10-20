@@ -75,11 +75,16 @@
 
 <!-- Streak Stats Github (estadísticas de rachas)= -->
 
+<hr/>
+
+<h2>:bar_chart: Github Stats </h2>
+
 <!--
  Forma original de obtener Streak Stats con Markdown del sitio web: http://github-readme-streak-stats.herokuapp.com/demo/ 
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreiarriaza&theme=dark)](https://git.io/streak-stats)
 -->
+
 
 <!-- Obtener Streak Stats con HTML del sitio web anterior: -->
 <a href="https://git.io/streak-stats">
