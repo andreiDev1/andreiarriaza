@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://andreiarriaza.github.io/" target="_blank">
-    <img src="https://github.com/andreiarriaza/andreiarriaza.github.io/blob/main/socialNetwork/Portada%20Github.png" width="800" height="400"/>
+    <img src="https://raw.githubusercontent.com/andreiarriaza/andreiarriaza.github.io/main/socialNetwork/Portada%20Github.png" width="800" height="400"/>
   </a>
 </div>
 
