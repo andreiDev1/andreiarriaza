@@ -44,7 +44,7 @@
  <ul>
   <li>:computer: Soy desarrollador <i>Full Stack</i> de Guatemala.</li>
   <li>:man_student: Eterno autodidacta.</li>
-  <li>:place_of_worship: Teólogo</li>
+  <li>:nerd_face: Teólogo</li>
   <li>:running_shirt_with_sash: Apasionado por el Trail Running.</li>
   <li>:open_book: Lector voraz.</li>
   <li> :national_park: Enamorado de la montaña y la aventura. </li>
